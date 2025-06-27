@@ -1,0 +1,83 @@
+{
+  "title": "¿Qué personaje de El Juego del Calamar eres?",
+  "mainImage": "/images/squidgame_cute.png",
+  "start": "Comenzar",
+  "next": "Siguiente",
+  "showResult": "Ver resultado",
+  "shareResult": "Compartir mi resultado",
+  "shareTest": "Compartir este test",
+  "questions": [
+    {
+      "q": "¿Qué harías si tu amigo está en peligro?",
+      "a": ["Ayudar de inmediato", "Observar la situación", "Priorizar mi seguridad", "Pedir ayuda a otros"],
+      "score": [["sung"], ["kang"], ["frontman"], ["cho"]]
+    },
+    {
+      "q": "¿Qué es lo más importante para ganar el juego?",
+      "a": ["Suerte", "Inteligencia", "Trabajo en equipo", "Valentía"],
+      "score": [["kim"], ["frontman"], ["sung"], ["park"]]
+    },
+    {
+      "q": "¿Qué harías primero si tuvieras mucho dinero?",
+      "a": ["Viajar con la familia", "Invertir en negocios", "Ahorrar", "Disfrutar una fiesta"],
+      "score": [["sung"], ["frontman"], ["kang"], ["park"]]
+    },
+    {
+      "q": "¿Cómo actúas en una crisis?",
+      "a": ["Mantener la calma", "Ser líder", "Cuidar a los demás primero", "Escapar solo"],
+      "score": [["frontman"], ["kang"], ["sung"], ["cho"]]
+    },
+    {
+      "q": "¿Cuál es tu papel entre tus amigos?",
+      "a": ["Animador", "Apoyo silencioso", "Líder", "Observador"],
+      "score": [["park"], ["kim"], ["kang"], ["frontman"]]
+    },
+    {
+      "q": "¿Cuál es tu color favorito?",
+      "a": ["Rosa", "Azul", "Verde", "Negro"],
+      "score": [["park"], ["kim"], ["sung"], ["frontman"]]
+    },
+    {
+      "q": "¿Cómo alivias el estrés?",
+      "a": ["Ejercicio", "Escuchar música", "Charlar con amigos", "Tiempo a solas"],
+      "score": [["kang"], ["kim"], ["park"], ["cho"]]
+    },
+    {
+      "q": "¿Cuál es tu mayor fortaleza?",
+      "a": ["Valentía", "Sabiduría", "Amabilidad", "Perseverancia"],
+      "score": [["park"], ["frontman"], ["sung"], ["kang"]]
+    }
+  ],
+  "results": {
+    "sung": {
+      "name": "Seong Gi-hun",
+      "desc": "¡Eres Seong Gi-hun! De buen corazón y justo, nunca pierdes la esperanza incluso en los momentos difíciles.",
+      "img": "/images/sung.png"
+    },
+    "frontman": {
+      "name": "Front Man",
+      "desc": "¡Eres el Front Man! Frío y lógico, analizas rápidamente las situaciones y muestras liderazgo.",
+      "img": "/images/frontman.png"
+    },
+    "kang": {
+      "name": "Kang Dae-ho",
+      "desc": "¡Eres Kang Dae-ho! Fuerte y persistente, superas cualquier adversidad con coraje.",
+      "img": "/images/kang.png"
+    },
+    "cho": {
+      "name": "Cho Hyun-joo",
+      "desc": "¡Eres Cho Hyun-joo! Inteligente y astuto, encuentras soluciones con calma incluso en crisis.",
+      "img": "/images/cho.png"
+    },
+    "kim": {
+      "name": "Kim Jun-hee",
+      "desc": "¡Eres Kim Jun-hee! Silencioso pero confiable, eres una presencia en la que todos confían.",
+      "img": "/images/kim.png"
+    },
+    "park": {
+      "name": "Park Yong-sik",
+      "desc": "¡Eres Park Yong-sik! Alegre y enérgico, iluminas a quienes te rodean.",
+      "img": "/images/park.png"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "title": "Which Squid Game Character Are You?",
+  "mainImage": "/images/squidgame_cute.png",
+  "start": "Start",
+  "next": "Next",
+  "showResult": "Show Result",
+  "shareResult": "Share My Result",
+  "shareTest": "Share This Test",
+  "questions": [
+    {
+      "q": "What would you do if your friend is in danger?",
+      "a": ["Help right away", "Watch the situation", "Put my safety first", "Ask someone else for help"],
+      "score": [["sung"], ["kang"], ["frontman"], ["cho"]]
+    },
+    {
+      "q": "What is the most important thing to win the game?",
+      "a": ["Luck", "Brains", "Teamwork", "Courage"],
+      "score": [["kim"], ["frontman"], ["sung"], ["park"]]
+    },
+    {
+      "q": "What would you do first if you got a lot of money?",
+      "a": ["Travel with family", "Invest in business", "Save it", "Enjoy a party"],
+      "score": [["sung"], ["frontman"], ["kang"], ["park"]]
+    },
+    {
+      "q": "How do you act in a crisis?",
+      "a": ["Stay calm", "Become a leader", "Take care of others first", "Escape alone"],
+      "score": [["frontman"], ["kang"], ["sung"], ["cho"]]
+    },
+    {
+      "q": "What is your role among friends?",
+      "a": ["Mood maker", "Quiet supporter", "Leader", "Observer"],
+      "score": [["park"], ["kim"], ["kang"], ["frontman"]]
+    },
+    {
+      "q": "What is your favorite color?",
+      "a": ["Pink", "Blue", "Green", "Black"],
+      "score": [["park"], ["kim"], ["sung"], ["frontman"]]
+    },
+    {
+      "q": "How do you relieve stress?",
+      "a": ["Exercise", "Listen to music", "Chat with friends", "Alone time"],
+      "score": [["kang"], ["kim"], ["park"], ["cho"]]
+    },
+    {
+      "q": "What is your greatest strength?",
+      "a": ["Courage", "Wisdom", "Kindness", "Perseverance"],
+      "score": [["park"], ["frontman"], ["sung"], ["kang"]]
+    }
+  ],
+  "results": {
+    "sung": {
+      "name": "Seong Gi-hun",
+      "desc": "You are Seong Gi-hun! Warm-hearted and righteous, you never lose hope even in tough times.",
+      "img": "/images/sung.png"
+    },
+    "frontman": {
+      "name": "Front Man",
+      "desc": "You are the Front Man! Cool-headed and logical, you quickly analyze situations and show leadership.",
+      "img": "/images/frontman.png"
+    },
+    "kang": {
+      "name": "Kang Dae-ho",
+      "desc": "You are Kang Dae-ho! Strong and persistent, you overcome any adversity with courage.",
+      "img": "/images/kang.png"
+    },
+    "cho": {
+      "name": "Cho Hyun-joo",
+      "desc": "You are Cho Hyun-joo! Smart and clever, you find solutions calmly even in crises.",
+      "img": "/images/cho.png"
+    },
+    "kim": {
+      "name": "Kim Jun-hee",
+      "desc": "You are Kim Jun-hee! Quiet but reliable, you are a trustworthy presence for everyone.",
+      "img": "/images/kim.png"
+    },
+    "park": {
+      "name": "Park Yong-sik",
+      "desc": "You are Park Yong-sik! Cheerful and energetic, you brighten up those around you.",
+      "img": "/images/park.png"
+    }
+  }
+}
